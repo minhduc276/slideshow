@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\slide_show\slide_show\bin\Debug\slide_show.exe.config
+C:\Users\Administrator\source\repos\slide_show\slide_show\bin\Debug\slide_show.exe
+C:\Users\Administrator\source\repos\slide_show\slide_show\bin\Debug\slide_show.pdb
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.Form1.resources
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.Properties.Resources.resources
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.exe
+C:\Users\Administrator\source\repos\slide_show\slide_show\obj\Debug\slide_show.pdb
